@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucky7/WorkSpace/setConfigure/main.cpp
+iostream
+-
+muduo/base/Logging.h
+/home/lucky7/WorkSpace/setConfigure/muduo/base/Logging.h
+

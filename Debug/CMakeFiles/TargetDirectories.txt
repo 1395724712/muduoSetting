@@ -1,0 +1,3 @@
+/home/lucky7/WorkSpace/setConfigure/Debug/CMakeFiles/rebuild_cache.dir
+/home/lucky7/WorkSpace/setConfigure/Debug/CMakeFiles/demo.dir
+/home/lucky7/WorkSpace/setConfigure/Debug/CMakeFiles/edit_cache.dir
